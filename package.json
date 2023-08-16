@@ -1,5 +1,5 @@
 {
-  "name": "brent-newmanfullstackbankingapp",
+  "name": "bebankfullstackbankingapp",
   "version": "1.1.0",
   "description": "MERN full-stack banking app",
   "main": "server.js",
