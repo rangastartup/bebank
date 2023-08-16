@@ -1,5 +1,5 @@
 {
-  "name": "brent-newmanfullstackbankingapp",
+  "name": "beBankfullstackbankingapp",
   "version": "1.1.0",
   "description": "MERN full-stack banking app",
   "main": "server.js",
@@ -14,7 +14,7 @@
     "npm": "8.x",
     "node": "16.x"
   },
-  "author": "Brent",
+  "author": "BeBank",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.27.2",
