@@ -1,6 +1,5 @@
-# mern-bad-bank
+# BeBank
 
-Try it out: [https://brent-newmanfullstackbankapp.herokuapp.com/](https://brent-newmanfullstackbankapp.herokuapp.com/)
 
 ## About
 
